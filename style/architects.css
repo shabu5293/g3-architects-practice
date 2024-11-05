@@ -176,6 +176,12 @@ main > section{
 .sponsor-companies img{
     filter: grayscale(100%);
 }
+.footer-item{
+    max-width: 850px;
+    margin: 30px auto;
+    padding: 30px;
+    text-align: center;
+}
 
 
 /* responsive media query */
